@@ -3,7 +3,7 @@ import React, { useState, useRef, useEffect } from 'react';
 export default function App() {
   const initialMessage = {
     sender: 'bot',
-    text: 'Hello! I am your DecodeLabs AI Assistant. How can I help you today?',
+    text: 'Hello! I am your AI Assistant. How can I help you today?',
     time: getCurrentTime(),
   };
 
@@ -92,7 +92,7 @@ export default function App() {
             <div style={styles.botAvatar}>🤖</div>
             <div>
               <div style={styles.headerTitleContainer}>
-                <h2 style={styles.title}>DecodeLabs Logic Engine</h2>
+                <h2 style={styles.title}>Logic Engine</h2>
                 <span style={styles.onlineStatus}>
                   <span style={styles.greenDot}></span>
                   Online
