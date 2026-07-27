@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_tgKCyGOF37QzuESS8U8LOzuHWcgK",
+      "name": "rule-based-ai-assistant",
+      "directory": ".",
+      "orgId": "team_oWSdgHuBsVL8Xba3XIxmAAlc"
+    }
+  ]
+}
